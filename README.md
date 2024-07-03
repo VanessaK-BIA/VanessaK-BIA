@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VanessaK-BIA - Vanessa Armstead
 - 👀 I’m interested in Business Intelligence (BIA)
 - 🌱 I’m currently learning Python and expanding my knowledge of SQL
-- 💞️ I’m looking to collaborate on projects that allow me to use and implement my newly learned skills as a BIA
-- 📫 How to reach me Linkedin:  https://www.linkedin.com/in/vanessa-armstead/
+- 💞️ I’m looking to collaborate on projects that allow me help businesses make more informed decisions and to thrive in their markets while also using / implementing my newly learned skills as a BIA, as well as pulling on my experience from the Health & Wellness field.
+- 📫 How to reach me: Linkedin + Email :  https://www.linkedin.com/in/vanessa-armstead/              Email: vanessakristine29@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Anime and Video Games , plus I have the travel bug so i especially enjoy immersing myself in different cultures and languages when I'm traveling abroad.
 
