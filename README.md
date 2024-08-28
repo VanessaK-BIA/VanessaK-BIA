@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Vanessa Armstead but you can use V for short.
-- 👀 I’m interested in Business Intelligence (BIA) / I'm a recent graduate from TripleTen
-- 🌱 I’m currently learning Python and expanding my knowledge of SQL
-- 💞️ I’m looking to collaborate on projects that allow me help businesses and clients make more informed decisions and to thrive in their markets while also using + implementing my newly learned skills as a BIA (e.g - Tableau / Power BI / SQL / Data Visualization). Pulling on my experience working with datasets and analytics from the Health & Wellness field, as well as the hands on experience during my TripleTen Projects
-- 📫 How to reach me: Linkedin + Email :  https://www.linkedin.com/in/vanessa-armstead/              Email: vanessakristine29@gmail.com
-- 😄 Pronouns: she/her
-  
+Greetings, I'm Vanessa Armstead. 
 
-<!---
-VanessaK-BIA/VanessaK-BIA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Business Intelligence Analyst who recently discovered my passion for data analysis. 
+I've found that I have a strong foundation in gathering, analysing and interpretting the data that in turn helps drive businesses to growth and to allow them to see a spike in efficiency in regards to operations and processes.
+I'm passionate about finding creative solutions to challenges and being able to convey the data in terms that everyone can understand. 
+Collaborating with organizations and teams to create groundbreaking and lasting results ; that are in line with making well informed decisions is how I would like to apply my skills as a Business Inntelligence Analyst. I'm eager to apply my skills in analysis and to create visually appealing presentations.
+
+Education |
+Graduated my Business Intelligence Analyst bootcamp with TripleTen in 2024, with included projects.
+
+Skills |
+Programming Languages: Python, SQL |
+Tools: Excel |
+Data Visualization: Tableau, PowerBI , PowerPoint
+
+Education
+Business Intelligence Analyst Bootcamp | TripleTen (4 months intensive) | 2024 - 2024
